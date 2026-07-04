@@ -1,3 +1,3 @@
-(https://www.wallpaperflare.com)
-(https://wallhaven.cc/toplist)
-(https://unsplash.com/wallpapers)
+- [Wallpaper Flare](https://www.wallpaperflare.com)
+- [Wallhaven](https://wallhaven.cc/toplist)
+- [Unsplash](https://unsplash.com/wallpapers)
